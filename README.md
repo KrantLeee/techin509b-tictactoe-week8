@@ -1,2 +1,3 @@
 # techin509b-tictactoe
-Starter code for the Tic Tac Toe assignments
+Run cli.py to start the game
+Run test.py to test the functions
